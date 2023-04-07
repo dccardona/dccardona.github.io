@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Bradley. An undergraduate mathematics student at [Allegheny College](https://allegheny.edu/). 
+Hi, I'm Donna. An undergraduate Mechatronics student at the Rochester Institute of Technology (RIT). 
 
-**Interests**: Mathematics, Artificial Intelligence, Machine Learning. *Interested in collaborating? [Contact me](mailto:bcardona300@gmail.com).*
+**Interests**: Designing, drawing, reading, hiking, rock climbing, walking.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
