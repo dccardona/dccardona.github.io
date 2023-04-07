@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Bradley Cardona
+      value: Donna Cardona
     - name: Date of Birth
-      value: 15th January 2000
+      value: 23rd December 2000
     - name: Languages
       value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S. Mathematics
-      institution: Allegheny College
-      year: 2019-2023
+    - title: B.S. Mechatronics Engineering Technology
+      institution: Rochester Institute of Technology (RIT)
+      year: 2019-Present
       description:
         # - Description 1.
         # - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Undergraduate mathematics researcher
-      institution: Allegheny College
-      year: 2022
+    - title: Engineering Intern
+      institution: Xylem
+      year: 2023
       # description:
         # - Studied algebraic geometry under the supervision of [Professor Caryn Werner](https://sites.allegheny.edu/math/faculty/.caryn-werner/)).
         # - Description 2.
@@ -41,9 +41,9 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Undergraduate biology researcher
-      institution: Allegheny College
-      year: 2021
+    # - title: Undergraduate biology researcher
+    #   institution: Allegheny College
+    #   year: 2021
       # description:
       #   - Studied algebraic geometry under the supervision of [Professor Bradley Hersh](https://sites.allegheny.edu/bio/faculty/bradley-m-hersh/).
         # - Description 2.
@@ -79,27 +79,35 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Mathematics.
+#       # items: 
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: Artificial Intelligence.
+#       # items:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: Moral Philosophy.
+#       # items:
+#       #   - Description 1.
+#       #   - Description 2.
+#     - title: Machine Learning.
+#       # items:
+#       #   - Description 1.
+#       #   - Description 2.
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Mathematics.
-      # items: 
-      #   - Description 1.
-      #   - Description 2.
-    - title: Artificial Intelligence.
-      # items:
-      #   - Description 1.
-      #   - Description 2.
-    - title: Moral Philosophy.
-      # items:
-      #   - Description 1.
-      #   - Description 2.
-    - title: Machine Learning.
-      # items:
-      #   - Description 1.
-      #   - Description 2.
+    - title: Autodesk Inventor.
+    - title: Autodesk Vault.
+    - title: Excel.
+    - title: Word.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Writing, Biking.
+    - <u>Hobbies:</u> Designing, drawing, reading, hiking, rock climbing, walking.

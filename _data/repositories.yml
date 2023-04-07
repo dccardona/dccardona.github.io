@@ -1,9 +1,5 @@
 github_users:
-  - bmcardona
+  - dccardona
 
 github_repos:
-  - bmcardona/sorting-visualizer
-  - bmcardona/pathfinding-visualizer
-  - bmcardona/sudoku-solver
-  - bmcardona/tic-tac-toe
-  - bmcardona/personal-website
+  - dccardona/dccardona.github.io
