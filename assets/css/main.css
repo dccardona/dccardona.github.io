@@ -7,6 +7,7 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #e9ddba;
+  --global-wolfram-nav-bar-color: #211f38;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
@@ -233,7 +234,7 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-wolfram-nav-bar-color);
   opacity: 0.95;
 }
 
