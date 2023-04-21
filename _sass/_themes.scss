@@ -37,7 +37,7 @@
 html[data-theme='dark'] {
   --global-bg-color: #{$dark-mode-color};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-wolfram-nav-bar-color: #{$theme-color-blue};
+  --global-wolfram-nav-bar-color: #{$dark-mode-color};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$cyan-color};
