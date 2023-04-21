@@ -12,7 +12,7 @@
   --global-text-color: #000000;
   --global-text-color-light: #828282;
   --global-theme-color: #211f38;
-  --global-hover-color: rgb(62, 54, 99);
+  --global-hover-color: #a3b8fc;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
@@ -36,7 +36,7 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: rgb(62, 54, 99);
+  --global-bg-color: rgb(36, 31, 59);
   --global-code-bg-color: #2c3237;
   --global-wolfram-nav-bar-color: #001f24;
   --global-text-color: #e8e8e8;
