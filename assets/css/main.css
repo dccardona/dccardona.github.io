@@ -7,7 +7,7 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #e9ddba;
-  --global-wolfram-nav-bar-color: #211f38;
+  --global-wolfram-nav-bar-color: #78954a;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
@@ -38,6 +38,7 @@
 html[data-theme=dark] {
   --global-bg-color: #001f24;
   --global-code-bg-color: #2c3237;
+  --global-wolfram-nav-bar-color: #211f38;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
   --global-theme-color: #2698BA;
