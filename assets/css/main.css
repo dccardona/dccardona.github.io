@@ -6,8 +6,8 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: rgb(235, 255, 239);
-  --global-wolfram-nav-bar-color: rgb(124, 177, 120);
+  --global-bg-color: rgb(248, 254, 249);
+  --global-wolfram-nav-bar-color: rgb(70, 161, 141);
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
