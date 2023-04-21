@@ -6,8 +6,8 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: rgb(199, 235, 206);
-  --global-wolfram-nav-bar-color: rgb(56, 68, 61);
+  --global-bg-color: rgb(235, 255, 239);
+  --global-wolfram-nav-bar-color: rgb(124, 177, 120);
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
@@ -36,7 +36,7 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: #001f24;
+  --global-bg-color: rgb(67, 90, 112);
   --global-code-bg-color: #2c3237;
   --global-wolfram-nav-bar-color: #001f24;
   --global-text-color: #e8e8e8;
@@ -47,7 +47,7 @@ html[data-theme=dark] {
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
   --global-distill-app-color: #e8e8e8;
-  --global-divider-color: #424246;
+  --global-divider-color: rgb(dedd34);
   --global-card-bg-color: #212529;
 }
 html[data-theme=dark] .fa-sun {
