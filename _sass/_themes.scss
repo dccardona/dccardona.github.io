@@ -38,10 +38,10 @@ html[data-theme='dark'] {
   --global-bg-color: #{$theme-color-black};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-wolfram-nav-bar-color: #{$dark-mode-color};
-  --global-text-color: #{$grey-color-light};
+  --global-text-color: #{$grey-color-light}; 
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$theme-color-sapphire};
+  --global-theme-color: #{$theme-color-sapphire};
+  --global-hover-color: #{$theme-color-grey};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
